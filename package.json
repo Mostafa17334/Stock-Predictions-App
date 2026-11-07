@@ -4,6 +4,9 @@
   "description": "This repo contains the code for the project that is built in Scrimba's [Intro to AI Engineering](https://scrimba.com/learn/introtoaiengineering) course.",
   "main": "index.js",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
