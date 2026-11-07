@@ -1,0 +1,18 @@
+{
+  "name": "dogdy-dave",
+  "version": "1.0.0",
+  "description": "This repo contains the code for the project that is built in Scrimba's [Intro to AI Engineering](https://scrimba.com/learn/introtoaiengineering) course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^7.39.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  }
+}
